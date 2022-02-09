@@ -1,7 +1,7 @@
 {
   "name": "vite-project",
   "version": "0.0.0",
-  "homepage": "https://yangchuan0514.github.io/todolist",
+  "homepage": "https://yangchuan0514.github.io/todolist/index.html",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
